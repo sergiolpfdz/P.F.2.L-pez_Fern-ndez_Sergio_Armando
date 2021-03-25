@@ -15,8 +15,6 @@ def Cliked (): res = "inteligencia artificial" + txt.get () #metodo clik asignam
 
 ![image](https://user-images.githubusercontent.com/79875888/112424152-8de0d700-8cf9-11eb-97e4-338d6c8c8e97.png)
 
-![image](https://user-images.githubusercontent.com/79875888/112424164-9507e500-8cf9-11eb-9258-9ebf5d35fdb6.png)
-
 indow.geometry ("500x500") btn = Botón (ventana, texto = "clik", comando = Clik) ​​btn.grid (columna = 1, fila = 1) window.mainloop 
 
 ![image](https://user-images.githubusercontent.com/79875888/112424200-a2bd6a80-8cf9-11eb-969b-49780b11e2aa.png)
